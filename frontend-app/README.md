@@ -1,4 +1,4 @@
-DEPLOYMENT LINK: https://vercel.com/api/toolbar/link/frontend-api-eatangit.vercel.app?via=team-dashboard-project-entity&p=1&page=/ 
+DEPLOYMENT LINK: frontend-api-eatangit.vercel.app
 
 
 # Getting Started with Create React App
