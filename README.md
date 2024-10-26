@@ -1,7 +1,7 @@
 DEPLOYMENT LINK: frontend-api-eatangit.vercel.app
 
 
-
+This week I became more familiar with the github interface. I also learned how to set up react and connecting to an API. Then I made a vercel account and deployed my first project.
 
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7DZoVHKr)
